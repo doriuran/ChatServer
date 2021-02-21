@@ -1,6 +1,5 @@
 README
 Name:Dor Iuran
-Id:206123689
 
 Exercise 4- Chat server
 
