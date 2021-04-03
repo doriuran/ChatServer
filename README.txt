@@ -1,7 +1,7 @@
 README
 Name:Dor Iuran
 
-Exercise 4- Chat server
+Chat server
 
 Description 
 
