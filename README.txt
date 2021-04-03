@@ -9,7 +9,7 @@ Program files:
 
 chatserver.c  - main program ,handleing request's and respone to the client.
 
-funcation:
+Function:
 connetToServer- connect the server by the port .
 printStatus- print the server status read/write from clients.
 signalHandler-handle the ctrl C when closing the server.
